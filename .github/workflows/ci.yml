@@ -39,3 +39,5 @@ jobs:
         with:
           push: true
           tags: lucasmol/ci-studies:latest
+          platforms: linux/amd64,linux/arm64
+          
